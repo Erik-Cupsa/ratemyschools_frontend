@@ -1,0 +1,21 @@
+body {
+    background-color: #1a1a1a;
+    color: #8a2be2; /* Purple text color */
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.container {
+    margin-top: 20vh;
+}
+
+h1 {
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.coming-soon {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-top: 20px;
+}
